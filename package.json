@@ -1,0 +1,22 @@
+{
+  "name": "itos",
+  "version": "1.0.0",
+  "description": "Dieser Bot dient als unterstützung für die Studenten, als auch zum lernen. Es wird die Programmiersprache Javascript verwendet. Es gibt keine garantie, dass dieser Bot auf irgendeinem anderem Server laufen wird.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomboru/ITOS.git"
+  },
+  "author": "Kirill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomboru/ITOS/issues"
+  },
+  "homepage": "https://github.com/Tomboru/ITOS#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
