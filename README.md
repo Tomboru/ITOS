@@ -10,7 +10,6 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [License](#License)
-- [Author]
 
 ---
 
