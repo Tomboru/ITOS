@@ -1,5 +1,5 @@
 const { Client, Intents, DiscordJS} = require('Discord.js');
-require('dotenv').config();
+require('dotenv').config({path:__dirname+'/Config/.env'});
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
